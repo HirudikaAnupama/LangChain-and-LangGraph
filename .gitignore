@@ -1,4 +1,4 @@
-# Python
+# === Python ===
 __pycache__/
 *.py[cod]
 *.pyc
@@ -10,7 +10,7 @@ dist/
 build/
 *.whl
 
-# Environment files
+# === Environment files ===
 .env
 *.env
 env/
@@ -19,24 +19,24 @@ venv/
 *.venv
 langchain_chat_env
 
-# IDE and editor files
+# === IDE and editor files ===
 .vscode/
 .idea/
 *.sublime-project
 *.sublime-workspace
 
-# System files
+# === System files ===
 .DS_Store
 Thumbs.db
 
-# Project-specific
+# === Project-specific ===
 *.log
 *.cache
 /cache/
 *.bak
 *.swp
 
-# LangChain/OpenAI-specific
+# === LangChain/OpenAI-specific ===
 langsmith/
 *.pkl
 *.db
