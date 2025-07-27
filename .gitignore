@@ -41,5 +41,4 @@ langsmith/
 *.pkl
 *.db
 chroma.sqlite3
-
-
+rag_db
